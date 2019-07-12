@@ -1,0 +1,149 @@
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+[False, False, False, False]
+
+camera started capturing
+I am monitoring the joints
+Not moving = True
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+[True, False, False, False]
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+[False, False, False, False]
+
+camera started capturing
+I am monitoring the joints
+Not moving = True
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+[True, False, False, False]
+
+camera started capturing
+I am monitoring the joints
+Not moving = True
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+[True, False, False, False]
+
+camera started capturing
+I am monitoring the joints
+Not moving = True
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+
+camera started capturing
+I am monitoring the joints
+Not moving = False
+camera stoppped capturing
+
+[True, False, False, False]
